@@ -32,5 +32,5 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 ---
 
 ### 📜 Author
-**Armit Soni** – Final Year Student, Electronics & Communication Engineering  
+**Armit Soni** – Final Year Student, Electrical Engineering  
 💼 [GitHub Profile](https://github.com/ArmitSoni)
