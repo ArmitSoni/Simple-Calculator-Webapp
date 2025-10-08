@@ -53,6 +53,10 @@ button{
      box-shadow: -8px -8px 15px rgba(255,255,255,0.1);
      cursor: pointer;
 }
+button:active {
+    box-shadow: inset -4px -4px 10px rgba(255,255,255,0.1);
+}
+
 #equalBtn{
     background-color: #fb7c14;
 }
